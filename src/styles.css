@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.main-app{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    width: 10rem;
+    margin-top : 1rem;
+}
+  
+.like{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
